@@ -1,0 +1,6 @@
+{
+  "name": "Esete Agro",
+  "description": "Admin dashboard for Esete Agro, an agro-input shop in Merkato, Addis Ababa. Inventory management, stock monitoring, and product catalog.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1 @@
+Esete Agro admin dashboard for agro-input inventory, stock monitoring, and product catalog.
